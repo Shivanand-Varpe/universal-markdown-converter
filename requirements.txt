@@ -1,0 +1,7 @@
+streamlit
+git+https://github.com/microsoft/markitdown.git
+pdfminer.six
+pdfplumber
+mammoth
+openpyxl
+pandas

@@ -1,5 +1,5 @@
 streamlit
-git+https://github.com/microsoft/markitdown.git
+markitdown
 pdfminer.six
 pdfplumber
 mammoth
